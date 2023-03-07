@@ -25,7 +25,7 @@ registrynames: When you're in-game, you can press F3+H to turn on Advanced Toolt
 # Addings the actual rewards to your datapack
 You need to add rewards based on the main item modid
 
-data -> {modid} -> skill_item -> {registrynames}.json
+data -> {modid} -> skill_item -> {registryname}.json
 
 Example:
 data -> botania -> skill_item -> magic_sunflower.json
