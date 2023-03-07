@@ -64,3 +64,5 @@ You can put from 0 to 8 rewards, and you don't need to fill in all the rewards i
 You can place the datapack inside your mod like how you would put any other data, or you could place them inside your map folder or servers datapack folder!
 
 # How it looks like in game
+![Screenshot_278](https://user-images.githubusercontent.com/71478358/223435325-33bf9843-996d-469f-bea0-b732a6fee474.png)
+
