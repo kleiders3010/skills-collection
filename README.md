@@ -13,7 +13,8 @@ You can take a look at an example datapack at https://github.com/kleiders3010/sk
   }
 }
 ```
-#Addings the actual rewards to your datapack
+
+##Addings the actual rewards to your datapack
 You need to add rewards based on the main item modid
 
 data -> {modid} -> skill_item -> {registrynames}.json
@@ -49,5 +50,5 @@ There is 2 fields: rewards, and xp_needed, like so:
 ```
 You can put from 0 to 8 rewards, and you don't need to fill in all the rewards if you don't want to; XP is gained by picking up the item, so 25xp is equal to picking up 25 of the collection item, in this example that would be botania:magic_sunflower
 
-#Placing the datapack
+###Placing the datapack
 You can place the datapack inside your mod like how you would put any other data, or you could place them inside your map folder or servers datapack folder!
