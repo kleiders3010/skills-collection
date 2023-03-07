@@ -28,22 +28,22 @@ There is 2 fields: rewards, and xp_needed, like so:
 ```
 {
   "rewards": {
-    "0": "minecraft:stick",
-    "1": "minecraft:apple",
-    "3": "minecraft:emerald",
+	"0": "minecraft:stick",
+	"1": "minecraft:apple",
+	"3": "minecraft:emerald",
 	"4": "minecraft:gold_ingot",
-    "6": "minecraft:emerald",
+	"6": "minecraft:emerald",
 	"7": "minecraft:diamond_sword",
 	"8": "minecraft:iron_ingot"
   },
   "xp_needed": {
-    "0": "1",
+	"0": "1",
 	"1": "10",
-    "3": "27",
+	"3": "27",
 	"4": "50",
 	"6": "75",
 	"7": "100",
-    "8": "120"
+	"8": "120"
   }
 }
 ```
